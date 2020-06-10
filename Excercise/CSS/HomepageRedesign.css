@@ -1,7 +1,10 @@
 body {
-  background-color: lightblue:
+  background-color: red;
+  h1{font-color: white;
+  }
   p{
     font-size: 12px;
+    font-color: white;
     font-family: sans-serif {Time New Roman};
   }
 }
