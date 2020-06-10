@@ -2,9 +2,16 @@
 <html lang="em" dir+"ltr">
   <head>
     <meta charset="utf=8">
-    <title>Micheal Mdermott</title>
+    <title>Micheal Mcdermott</title>
   </head>
   <body>
-
+    <h1>Micheal's Work</h1>
+    <ul>
+      <li>El: 20 Question</li>
+      <li>E2: Make the Grid</li>
+      <li>E3: Organization and Naming</li>
+      <li>E4: Site Map</li>
+      <li>E5: Wireframes</li>
+    </ul>
   </body>
 </html>
