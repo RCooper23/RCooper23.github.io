@@ -7,9 +7,14 @@ main {
   margin: 50px auto;
 }
   h1 {
+font-size: 55px;
   color: tomato;
-  width: 75%;
-  margin: 75px auto;
+  width: 90%;
+  margin: 45px auto;
+  }
+  .title {
+    width: 25%;
+    margin: 0px auto;
   }
   h2 {
     color: aquamarine;
@@ -27,6 +32,7 @@ main {
   }
   p {
     letter-spacing: 1px;
+    text-indent: 10px;
   }
   .intro {
     font-size: 20px;
