@@ -18,10 +18,12 @@ main {
   h3 {
     Color: lightsalmon
   }
-  ul li{
+  li{
     font-size: 16px;
-    color: lightsalmon;
+    color: White;
     font-family: sans-serif {Time New Roman};
+    width: 25%;
+    margin: 5px auto;
   }
   p {
     letter-spacing: 1px;
@@ -35,6 +37,6 @@ main {
     color: pink;
     text-decoration: underline;
     letter-spacing: 2px;
-    width: 50%;
-    margin: 50px auto;
+    width: 25%;
+    margin: 5px auto;
   }
