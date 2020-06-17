@@ -2,11 +2,18 @@ body {
   background-color: black;
     color: white;
   }
+main {
+  width: 50%;
+  margin: 50px auto;
+}
   h1 {
   color: tomato;
+  width: 75%;
+  margin: 75px auto;
   }
   h2 {
     color: aquamarine;
+    margin: 25px auto;
   }
   h3 {
     Color: lightsalmon
@@ -16,7 +23,18 @@ body {
     color: lightsalmon;
     font-family: sans-serif {Time New Roman};
   }
+  p {
+    letter-spacing: 1px;
+  }
   .intro {
-    color: blue;
-    font-size: 20;
+    font-size: 20px;
+    letter-spacing: 2px:
+  }
+  .contrast {
+    font-size: 18px;
+    color: pink;
+    text-decoration: underline;
+    letter-spacing: 2px;
+    width: 50%;
+    margin: 50px auto;
   }
