@@ -2,6 +2,9 @@ body {
   background-color: black;
     color: white;
   }
+  h1 {
+  color: tomato;
+  }
   h2 {
     color: aquamarine;
   }
@@ -12,3 +15,8 @@ body {
     font-size: 16px;
     color: lightsalmon;
     font-family: sans-serif {Time New Roman};
+  }
+  .intro {
+    color: blue;
+    font-size: 20;
+  }
