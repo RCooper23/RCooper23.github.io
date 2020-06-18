@@ -6,22 +6,33 @@ main {
   width: 50%;
   margin: 50px auto;
 }
-  h1 {
-font-size: 55px;
+#listbox {
+  background-color: gray;
   color: tomato;
-  width: 90%;
+  padding: 35px;
+  height: 25px;
+  width: 35px;
+  margin: 50px auto;
+}
+  h1 {
+  font-size: 55px;
+  font-family: 'Crimson Text', serif;
+  color: tomato;
+  width: 73%;
   margin: 45px auto;
   }
   .title {
+    text-align: center;
     width: 25%;
     margin: 0px auto;
   }
   h2 {
+    font-family: 'Old Standard TT', serif;
     color: aquamarine;
     margin: 25px auto;
   }
   h3 {
-    Color: lightsalmon
+    Color: lightsalmon;
   }
   li{
     font-size: 16px;
@@ -29,6 +40,9 @@ font-size: 55px;
     font-family: sans-serif {Time New Roman};
     width: 25%;
     margin: 5px auto;
+  }
+  a {
+    color: lightsalmon;
   }
   p {
     letter-spacing: 1px;
@@ -40,9 +54,17 @@ font-size: 55px;
   }
   .contrast {
     font-size: 18px;
-    color: pink;
+    color: aquamarine;
+    text-align: left;
     text-decoration: underline;
     letter-spacing: 2px;
     width: 25%;
     margin: 5px auto;
+  }
+  .author {
+    font-size: 30px;
+    font-family: 'Crimson Text', serif;
+    color: tomato;
+    width: 35%;
+    margin: 35px auto;
   }
