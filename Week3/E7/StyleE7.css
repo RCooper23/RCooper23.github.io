@@ -47,15 +47,18 @@ main {
   .contrast {
     font-size: 20px;
     color: aquamarine;
+    text-align: left;
     text-decoration: underline;
     letter-spacing: 2px;
-    width: 25%;
+    width: 215%;
+    margin: -8px;
   }
   #listbox {
     background-color: gray;
     color: tomato;
-    padding: 35px;
-    height: 15px;
+    padding-left: 50px;
+    padding: 30px;
+    height: 5px;
     width: 75px;
     margin: 5px auto;
   }
