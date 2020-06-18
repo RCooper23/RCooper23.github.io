@@ -1,6 +1,6 @@
 body {
   background-color: black;
-    color: white;
+  color: white;
   }
 main {
   width: 50%;
@@ -40,6 +40,12 @@ main {
     letter-spacing: 1px;
     text-indent: 10px;
   }
+  b {
+    color: lightsalmon;
+  }
+  strong {
+    color: lightskyblue;
+  }
   .intro {
     font-size: 20px;
     letter-spacing: 2px:
@@ -47,20 +53,21 @@ main {
   .contrast {
     font-size: 20px;
     color: aquamarine;
-    text-align: left;
     text-decoration: underline;
     letter-spacing: 2px;
-    width: 215%;
+    width: 25%;
     margin: -8px;
   }
-  div {
-  border: 1px solid black;
-  background-color: lightblue;
-  padding-top: 50px;
-  padding-right: 30px;
-  padding-bottom: 50px;
-  padding-left: 80px;
-}
+  #listbox {
+    background-color: gray;
+    color: aquamarine;
+    padding-left: -5px;
+    padding: 30px;
+    height: 5px;
+    width: 75px;
+    text-align: 25% center;
+    margin: 5px auto;
+  }
   .author {
     font-size: 30px;
     font-family: 'Crimson Text', serif;
