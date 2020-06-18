@@ -53,15 +53,14 @@ main {
     width: 215%;
     margin: -8px;
   }
-  #listbox {
-    background-color: gray;
-    color: tomato;
-    padding-left: 50px;
-    padding: 30px;
-    height: 5px;
-    width: 75px;
-    margin: 5px auto;
-  }
+  div {
+  border: 1px solid black;
+  background-color: lightblue;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
   .author {
     font-size: 30px;
     font-family: 'Crimson Text', serif;
