@@ -57,9 +57,6 @@ main {
     color: aquamarine;
     text-align: left;
     text-decoration: underline;
-    letter-spacing: 2px;
-    width: 25%;
-    margin: 5px auto;
   }
   .author {
     font-size: 30px;
