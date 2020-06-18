@@ -26,6 +26,10 @@ main {
   h3 {
     Color: lightsalmon;
   }
+  h4 {
+    width: 100%;
+    margin: 5px auto;
+  }
   li{
     font-size: 16px;
     color: White;
@@ -49,7 +53,7 @@ main {
     color: aquamarine;
     text-decoration: underline;
     letter-spacing: 2px;
-    margin: 5px auto;
+    margin: 75px auto;
   }
   #listbox {
     background-color: gray;
