@@ -6,14 +6,6 @@ main {
   width: 50%;
   margin: 50px auto;
 }
-#listbox {
-  background-color: gray;
-  color: tomato;
-  padding: 35px;
-  height: 25px;
-  width: 35px;
-  margin: 50px auto;
-}
   h1 {
   font-size: 55px;
   font-family: 'Crimson Text', serif;
@@ -53,10 +45,19 @@ main {
     letter-spacing: 2px:
   }
   .contrast {
-    font-size: 18px;
+    font-size: 20px;
     color: aquamarine;
-    text-align: left;
     text-decoration: underline;
+    letter-spacing: 2px;
+    margin: 5px auto;
+  }
+  #listbox {
+    background-color: gray;
+    color: tomato;
+    padding: 35px;
+    height: 25px;
+    width: 35px;
+    margin: 50px auto;
   }
   .author {
     font-size: 30px;
