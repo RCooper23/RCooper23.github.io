@@ -50,15 +50,14 @@ main {
     text-decoration: underline;
     letter-spacing: 2px;
     width: 25%;
-    margin: 5px auto;
   }
   #listbox {
     background-color: gray;
     color: tomato;
     padding: 35px;
-    height: 25px;
-    width: 35px;
-    margin: 50px auto;
+    height: 15px;
+    width: 75px;
+    margin: 5px auto;
   }
   .author {
     font-size: 30px;
