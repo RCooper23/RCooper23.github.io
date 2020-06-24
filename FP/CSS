@@ -18,7 +18,7 @@ img {
   max-width: 100%
 }
 nav {
-  text-align: center;
+  text-align: center-right;
 }
 div {
   padding: 5px;
