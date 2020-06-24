@@ -11,6 +11,7 @@ p {
   color: white;
 }
 li {
+  color: white;
   display: inline
 }
 img {
