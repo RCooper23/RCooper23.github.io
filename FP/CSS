@@ -2,7 +2,7 @@ body {
   background-color: black;
 }
 h2 {
-  color: white;
+  color: Purple;
 }
 h3 {
   color: white;
@@ -18,5 +18,11 @@ img {
   max-width: 100%
 }
 nav {
-  display: inline-block;
+  text-align: center;
+}
+div {
+  padding: 5px;
+}
+cancellation {
+  color: purple;
 }
