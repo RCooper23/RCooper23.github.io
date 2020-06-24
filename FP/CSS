@@ -1,3 +1,18 @@
+body {
+  background-color: black;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+}
 p {
-  color: blue;
+  color: white;
+}
+li {
+  display: inline
+}
+img {
+  max-width: 100%
 }
