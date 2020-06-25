@@ -7,8 +7,9 @@ main {
 }
 h2 {
   color: Purple;
-  width: 50%;
-  margin: 50px auto;
+  padding: 5px;
+  width: 73%;
+  margin: 45px auto;
 }
 h3 {
   color: white;
@@ -32,4 +33,7 @@ div {
 }
 cancellation {
   color: purple;
+}
+ArtistPost {
+  text-align: right;
 }
