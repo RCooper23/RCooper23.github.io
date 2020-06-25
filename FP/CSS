@@ -1,15 +1,18 @@
 body {
   background-color: black;
 }
-main {
-  width: 50%;
-  margin: 50px auto;
+nav {
+  text-align: right;
 }
-h2 {
-  color: Purple;
-  padding: 5px;
+main {
   width: 73%;
   margin: 45px auto;
+}
+h2 {
+  color: red;
+  text-align: center;
+  width: 73%;
+  margin: 45px: auto;
 }
 h3 {
   color: white;
@@ -25,15 +28,12 @@ li {
 img {
   max-width: 100%
 }
-nav {
-  text-align: center-right;
-}
 div {
   padding: 5px;
 }
 cancellation {
   color: purple;
 }
-ArtistPost {
-  text-align: right;
+em {
+  text-align: center;
 }
