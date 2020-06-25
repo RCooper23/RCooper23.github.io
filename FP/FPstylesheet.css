@@ -4,6 +4,10 @@ body {
 nav {
   text-align: right;
 }
+h1 {
+  color: purple;
+  text-align: center;
+}
 main {
   width: 73%;
   margin: 45px auto;
