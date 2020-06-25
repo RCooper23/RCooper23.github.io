@@ -1,0 +1,44 @@
+body {
+  background-color: black;
+}
+nav {
+  text-align: right;
+}
+main {
+  width: 73%;
+  margin: 45px auto;
+}
+h2 {
+  color: Purple;
+  text-align: center;
+  margin: 25px 45px: auto;
+}
+h3 {
+  color: white;
+}
+p {
+  color: white;
+  text-align: center;
+}
+li {
+  color: white;
+  display: inline
+}
+img {
+  max-width: 100%
+}
+div {
+  padding: 5px;
+}
+cancellation {
+  color: purple;
+}
+em {
+  text-align: center;
+}
+u {
+  text-align: left;
+}
+img {
+  left: auto;
+}
