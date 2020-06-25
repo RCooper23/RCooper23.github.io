@@ -1,14 +1,21 @@
 body {
   background-color: black;
 }
+main {
+  width: 50%;
+  margin: 50px auto;
+}
 h2 {
   color: Purple;
+  width: 50%;
+  margin: 50px auto;
 }
 h3 {
   color: white;
 }
 p {
   color: white;
+  text-align: center;
 }
 li {
   color: white;
