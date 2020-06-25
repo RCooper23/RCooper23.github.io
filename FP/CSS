@@ -9,10 +9,9 @@ main {
   margin: 45px auto;
 }
 h2 {
-  color: red;
+  color: Purple;
   text-align: center;
-  width: 73%;
-  margin: 45px: auto;
+  margin: 25px 45px: auto;
 }
 h3 {
   color: white;
@@ -36,4 +35,10 @@ cancellation {
 }
 em {
   text-align: center;
+}
+u {
+  text-align: left;
+}
+img {
+  left: auto;
 }
