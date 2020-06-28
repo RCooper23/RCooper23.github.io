@@ -2,8 +2,8 @@ body {
   background-color: black;
 }
 nav {
+  display: inline-block;
   text-align: right;
-  display: inline
 }
 main {
   width: 73%;
