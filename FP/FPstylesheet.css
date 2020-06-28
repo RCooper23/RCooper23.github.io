@@ -41,7 +41,9 @@ img {
   max-width: 100%
 }
 div {
-  padding: 25px;
+  border: 3px solid;
+  padding: 10px;
+  box-shadow: -30px 10px purple;
   margin: 30px;
 }
 cancellation {
