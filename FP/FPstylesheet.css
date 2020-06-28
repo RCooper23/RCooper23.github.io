@@ -4,21 +4,26 @@ body {
 nav {
   text-align: right;
 }
-h1 {
-  color: white;
-  text-align: center;
-}
 main {
   width: 73%;
   margin: 45px auto;
 }
+h1 {
+  color: white;
+  font-family: 'Californian FB', serif;
+}
 h2 {
-  color: gold;
+  color: purple;
+  font-family: 'Courier New', serif;
   text-align: center;
   margin: 25px 45px: auto;
 }
 h3 {
   color: white;
+  font-family: 'Harlow solid', serif;
+}
+h4 {
+  font-family: 'Special Elite', serif;
 }
 p {
   color: white;
