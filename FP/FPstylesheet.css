@@ -13,7 +13,7 @@ h1 {
   font-family: 'Californian FB', serif;
 }
 h2 {
-  color: purple;
+  color: #FFA300;
   font-family: 'Courier New', serif;
   text-align: center;
   margin: 25px 45px: auto;
@@ -48,7 +48,7 @@ em {
   text-align: center;
 }
 u {
-  color: gold;
+  color: #FFA300;
   text-align: left;
 }
 img {
