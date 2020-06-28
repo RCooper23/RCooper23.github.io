@@ -1,7 +1,5 @@
 body {
-  background-color: url("background.jpg") no-repeat;
-  background-attachment: fixed;
-  background-blend-mode: lighten;
+  background-color: black;
 }
 nav {
   text-align: right;
