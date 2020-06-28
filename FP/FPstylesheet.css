@@ -39,6 +39,7 @@ img {
 }
 div {
   padding: 5px;
+  margin: 30px;
 }
 cancellation {
   color: purple;
@@ -52,4 +53,7 @@ u {
 }
 img {
   left: auto;
+}
+*months{
+  color:
 }
