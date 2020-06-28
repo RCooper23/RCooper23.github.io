@@ -1,6 +1,5 @@
 body {
-  background-color: url("background.jpg")
-  background-repeat: no-repeat;
+  background-color: url("background.jpg") no-repeat;
   background-attachment: fixed;
   background-blend-mode: lighten;
 }
