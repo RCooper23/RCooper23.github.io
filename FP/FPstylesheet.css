@@ -8,9 +8,6 @@ main {
   width: 73%;
   margin: 45px auto;
 }
-a {
-  display: inline-block;
-}
 h1 {
   color: white;
   font-family: 'Californian FB', serif;
@@ -38,6 +35,7 @@ p {
 }
 li {
   color: white;
+  display: inline-block;
 }
 img {
   max-width: 100%
