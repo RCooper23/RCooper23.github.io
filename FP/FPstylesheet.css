@@ -44,7 +44,7 @@ img {
 div {
   border: 3px solid;
   padding: 10px;
-  box-shadow: -20px 10px purple;
+  box-shadow: -20px 10px  9px purple;
   opacity: 55%;
   margin: 30px;
 }
