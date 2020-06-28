@@ -2,12 +2,14 @@ body {
   background-color: black;
 }
 nav {
-  display: inline-block;
   text-align: right;
 }
 main {
   width: 73%;
   margin: 45px auto;
+}
+a {
+  display: inline-block;
 }
 h1 {
   color: white;
