@@ -3,6 +3,7 @@ body {
 }
 nav {
   text-align: right;
+  display: inline
 }
 main {
   width: 73%;
