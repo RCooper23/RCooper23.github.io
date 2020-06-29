@@ -1,6 +1,5 @@
 body {
   background-color: black;
-  opacity: 55%;
 }
 nav {
   text-align: right;
@@ -47,6 +46,7 @@ div {
   border: 3px solid;
   padding: 10px;
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
+  opacity: 75px;
   margin: 30px;
 }
 cancellation {
