@@ -4,6 +4,7 @@ body {
 }
 nav {
   text-align: right;
+  color: #DB29EE;
 }
 main {
   width: 73%;
@@ -49,7 +50,7 @@ div {
   margin: 30px;
 }
 cancellation {
-  color: pink;
+  color: #DB29EE;
 }
 em {
   text-align: center;
