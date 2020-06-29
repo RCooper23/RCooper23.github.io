@@ -10,6 +10,10 @@ main {
   width: 73%;
   margin: 45px auto;
 }
+nav {
+  text-align: right;
+  color: #FFDE05;
+}
 h1 {
   color: white;
   text-align: left;
@@ -39,10 +43,6 @@ p {
 li {
   color: white;
   display: inline;
-}
-nav {
-  text-align: right;
-  color: #FFDE05;
 }
 img {
   max-width: 100%
