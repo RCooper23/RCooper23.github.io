@@ -1,5 +1,10 @@
 body {
   background-color: black;
+    background-image: url('background.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-blend-mode: lighten;
+    background-size: cover;
 }
 nav {
   text-align: right;
