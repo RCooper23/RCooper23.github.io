@@ -11,6 +11,7 @@ main {
 }
 h1 {
   color: white;
+  text-align: left;
   font-family: 'Californian FB', serif;
 }
 h2 {
