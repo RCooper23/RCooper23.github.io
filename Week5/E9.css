@@ -1,5 +1,20 @@
-div {
-  height: 100px;
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0:
+}
+.board {
+  width: 800px;
+  margin: 50px;
+}
+.red {
   width: 100px;
+  height: 100px;
   background-color: red;
+}
+.black {
+  width: 100px;
+  height: 100px;
+  background-color: black;
 }
