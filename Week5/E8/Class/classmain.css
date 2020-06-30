@@ -1,5 +1,5 @@
 body {
-  background: red;
+  background: white;
   margin: 0;
 }
 main {
@@ -15,16 +15,12 @@ main {
 .shape2 {
   width: 100px;
   height: 100px;
-  background-color: purple;
-  border-color: white;
-
+  background-color: blue;
   float: left;
 }
 .shape3 {
   width: 100px;
   height: 100px;
-  background-color: blue;
-  border-color: blue;
-  border-width:
+  background-color: red;
   float: left;
 }
