@@ -12,9 +12,11 @@ body {
   width: 100px;
   height: 100px;
   background-color: red;
+  float: inherit;
 }
 .black {
   width: 100px;
   height: 100px;
   background-color: black;
+  float: inherit;
 }
