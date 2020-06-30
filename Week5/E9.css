@@ -6,15 +6,17 @@ body {
 }
 .board {
   width: 800px;
-  margin: 50px;
+  margin: 50px auto;
 }
 .red {
   width: 100px;
   height: 100px;
   background-color: red;
+  float: left;
 }
 .black {
   width: 100px;
   height: 100px;
   background-color: black;
+  float: left;
 }
