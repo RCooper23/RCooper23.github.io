@@ -31,9 +31,11 @@ main {
 }
 .circle1 {
   width: 100px;
-  height: 100px;
-  background: red;
-  border-radius: 50%
+  height: 75px;
+  background-color: purple;
+  float: left;
+  margin: -5px;
+  opacity: .75;
 }
 .circle2 {
   width: 100px;
@@ -41,7 +43,7 @@ main {
   background: blue;
   border-radius: 50%
 }
-.circle3 {
+.cirle3 {
   width: 100px;
   height: 100px;
   background: pink;
