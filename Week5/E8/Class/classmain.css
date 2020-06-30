@@ -6,7 +6,7 @@ main {
   width: 120vw;
   margin: -10vw;
 }
-.shape1 {
+.pattern1.shape1 {
   width: 100px;
   height: 25px;
   background-color: yellow;
@@ -14,7 +14,7 @@ main {
   margin: -5px;
   opacity: .75;
 }
-.shape2 {
+.pattern1.shape2 {
   width: 100px;
   height: 75px;
   background-color: purple;
@@ -22,11 +22,17 @@ main {
   margin: -5px;
   opacity: .75;
 }
-.shape3 {
+.pattern1.shape3 {
   width: 50px;
   height: 100px;
   background-color: red;
   float: left;
   margin: -5px;
   opacity: .75;
+}
+.pattern2.shape1#circle {
+  width: 100px;
+  height: 100px;
+  background: red;
+  border-radius: 50%
 }
