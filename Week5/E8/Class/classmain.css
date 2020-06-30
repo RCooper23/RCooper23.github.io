@@ -5,15 +5,18 @@ body {
   width: 100px;
   height: 100px;
   background-color: yellow;
+  float: left;
 }
 .shape2 {
   width: 100px;
   height: 100px;
   border-color: white;
+  float: left;
 }
 .shape3 {
   width: 100px;
   height: 100px;
   background-color: yellow;
   border-color: blue;
+  float: left;
 }
