@@ -1,3 +1,19 @@
 body {
   background: red;
 }
+.shape1 {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+}
+.shape2 {
+  width: 100px;
+  height: 100px;
+  border-color: white;
+}
+.shape3 {
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  border-color: blue;
+}
