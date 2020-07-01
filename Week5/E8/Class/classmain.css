@@ -30,7 +30,7 @@ main {
   opacity: .75;
 }
 }
-.SP1 {
+.pattern2.SP1 {
   width: 100px;
   height: 25px;
   background-color: pink;
@@ -38,7 +38,7 @@ main {
   margin: -5px;
   opacity: .75;
 }
-.SP2 {
+.pattern2.SP2 {
   width: 100px;
   height: 75px;
   background-color: grey;
@@ -46,7 +46,7 @@ main {
   margin: -5px;
   opacity: .75;
 }
-.SP3 {
+.pattern2.SP3 {
   width: 50px;
   height: 100px;
   background-color: blue;
