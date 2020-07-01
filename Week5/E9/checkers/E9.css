@@ -8,7 +8,7 @@ main {
 }
 .board {
   width: 800px;
-  height: 800px;
+  max-height: 800px;
   margin: 0px auto;
 }
 .red {
