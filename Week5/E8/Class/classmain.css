@@ -36,7 +36,7 @@ main {
   background-color: pink;
   float: left;
   margin: -5px;
-  border-radius: 50px;
+  border-radius: 50%;
 }
 .SP2 {
   width: 100px;
