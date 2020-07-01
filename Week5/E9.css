@@ -13,7 +13,7 @@ main {
   width: 100px;
   height: 100px;
   background-color: red;
-  float: left;
+  float: right;
 }
 .black {
   width: 100px;
