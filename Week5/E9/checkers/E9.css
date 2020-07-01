@@ -1,20 +1,25 @@
 * {
   box-sizing: border-box;
+  margin: 0;
 }
-body {
-  margin: 0:
+main {
+  width: 120vw;
+  margin: -10vw;
 }
 .board {
   width: 800px;
-  margin: 50px;
+  height: 800p
+  margin: 50px auto;
 }
-.red {
+.square {
   width: 100px;
   height: 100px;
   background-color: red;
+  float:left;
 }
 .black {
   width: 100px;
   height: 100px;
   background-color: black;
+  float:none;
 }
