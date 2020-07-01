@@ -8,10 +8,10 @@ main {
 }
 .board {
   width: 800px;
-  height: 800p
+  height: 800px;
   margin: 50px auto;
 }
-.square {
+.red {
   width: 100px;
   height: 100px;
   background-color: red;
