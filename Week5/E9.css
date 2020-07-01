@@ -13,11 +13,9 @@ main {
   width: 100px;
   height: 100px;
   background-color: red;
-  float: center;
 }
 .black {
   width: 100px;
   height: 100px;
   background-color: black;
-  float: left;
 }
