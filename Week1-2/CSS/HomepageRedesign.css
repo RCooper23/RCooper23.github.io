@@ -30,9 +30,11 @@ u {
 }
 .Col {
   width: 50%;
+  border: 5px;
   float: left;
 }
 .Col2 {
   width: 50%;
+  border: 5px;
   float: right;
 }
