@@ -33,3 +33,8 @@ body {
     background-color: blue;
     float: left;
   }
+  .COl2 {
+    width: 50%;
+    background-color: blue;
+    float: right;
+  }
