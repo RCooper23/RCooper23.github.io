@@ -1,12 +1,6 @@
 body {
   background-color: white;
 }
-.leftside {
-  width: 480px;
-  height:1560px;
-  background-color: blue;
-  float: left;
-}
 main {
   width: 1920px;
   height: 2160px;
@@ -56,10 +50,4 @@ main {
   background-color: red;
   border: 5px solid white;
   float: left;
-}
-.rightside {
-  width: 480px;
-  height:1560px;
-  background-color: blue;
-  float: right;
 }
