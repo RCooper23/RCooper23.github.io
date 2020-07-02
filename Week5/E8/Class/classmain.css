@@ -85,7 +85,7 @@ main {
   height: 50px;
   background-color: tomato;
   box-shadow: -5px 20px, purple;
-  opacity: .50;
+  opacity: .75;
   float: left;
   margin: -5px;
   border-radius: 50%;
