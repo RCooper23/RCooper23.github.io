@@ -10,8 +10,7 @@ main {
 .leftside {
   width: 480px;
   height:1560px;
-  background-color: yellow;
-  float:left;
+  background-color: blue;
 }
 .headerbox {
   width: 950px;
@@ -63,5 +62,4 @@ main {
   width: 480px;
   height:1560px;
   background-color: blue;
-  float: left;
 }
