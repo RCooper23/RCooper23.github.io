@@ -1,7 +1,11 @@
 body {
-  width: 1920px;
-  height: 2160px;
   background-color: white;
+}
+.leftside {
+  width: 480px;
+  height:1560px;
+  background-color: blue;
+  float: left;
 }
 main {
   width: 1920px;
