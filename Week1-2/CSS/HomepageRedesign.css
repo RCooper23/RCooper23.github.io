@@ -34,3 +34,8 @@ u {
   background-color: blue;
   float: left;
 }
+.Col2 {
+  width: 50%;
+  background-color: blue;
+  float: right;
+}
