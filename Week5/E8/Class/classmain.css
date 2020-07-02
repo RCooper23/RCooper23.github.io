@@ -58,6 +58,8 @@ main {
   width: 100px;
   height: 100px;
   background-color: #9C9696;
+  border-width: 5px;
+  border-color: white
   float: left;
   margin: -5px;
   border-radius: 50%;
