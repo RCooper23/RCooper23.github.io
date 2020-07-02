@@ -10,7 +10,6 @@ main {
   height: 160px;
   background-color: red;
   border: 5px solid white;
-  float: left;
 }
 .divider {
   width: 950px;
@@ -18,7 +17,6 @@ main {
   margin: 0px auto;
   background-color: red;
   border: 5px solid white;
-  float: left;
 }
 .col1 {
   width: 310px;
