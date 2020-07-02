@@ -8,12 +8,14 @@ main {
 .headerbox {
   width: 960px;
   height: 160px;
+  margin: 0px auto;
   background-color: red;
   border: 5px solid white;
 }
 .divider {
   width: 960px;
   height: 40px;
+  margin: 0px auto;
   background-color: red;
   border: 5px solid white;
   float: left;
@@ -21,7 +23,7 @@ main {
 .col1 {
   width: 314px;
   height: 600px;
-  margin: 0px;
+  margin: 0px auto;
   background-color: red;
   border: 5px solid white;
   float: left;
@@ -29,14 +31,22 @@ main {
 .col2 {
   width: 314px;
   height: 600px;
-  margin: 0px;
+  margin: 0px auto;
   background-color: red;
   border: 5px solid white;
+  float: left;
 }
 .col3 {
   width: 314px;
   height: 600px;
-  margin: 0px;
+  margin: 0px auto;
+  background-color: red;
+  border: 5px solid white;
+  float: left;
+}
+.footer {
+  width: 960px;
+  height: 160px;
   background-color: red;
   border: 5px solid white;
   float: left;
