@@ -24,6 +24,14 @@ main {
   height: 250px;
   background-color: red;
   border: 5px solid white;
+  float: left;
+}
+.smallbox {
+  width: 238px;
+  height: 125px;
+  background-color: red;
+  border: 5px solid white;
+  float: left;
 }
 .footer {
   width: 950px;
