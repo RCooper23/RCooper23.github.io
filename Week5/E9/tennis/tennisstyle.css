@@ -30,3 +30,10 @@ main {
   background-color: red;
   border: 5px solid white;
 }
+.footer {
+  width: 950px;
+  height: 160px;
+  margin: 0px auto;
+  background-color: red;
+  border: 5px solid white;
+  float: left;
