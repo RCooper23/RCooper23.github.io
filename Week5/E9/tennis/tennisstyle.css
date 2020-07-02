@@ -1,0 +1,28 @@
+body {
+  background-color: Yellow;
+}
+main {
+  width: 1000px;
+  height: 1000px;
+  margin:0px auto;
+}
+.leftsidecourt {
+  width: 160px;
+  height: 480px;
+  background-color: red;
+}
+.middle {
+  width: 160px;
+  height: 160px;
+  background-color: red;
+}
+.topbackcourt{
+  width: 160px;
+  height: 320px;
+  background-color: red;
+}
+.rightsidecourt {
+  width: 160px;
+  height: 480px;
+  background-color: red;
+}
