@@ -29,7 +29,7 @@ body {
     color: gray;
   }
   .Col {
-    width: 50%;
+    width: 37.5vw;
     background-color: blue;
     float: left;
   }
