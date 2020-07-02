@@ -22,14 +22,14 @@ main {
   float: left;
 }
 .bodycontent {
-  width: 730px;
+  width: 750px;
   height: 400px;
   background-color: red;
   border: 5px solid white;
   float: left;
 }
 .smallbox {
-  width: 210px;
+  width: 160px;
   height: 125px;
   background-color: red;
   border: 5px solid white;
