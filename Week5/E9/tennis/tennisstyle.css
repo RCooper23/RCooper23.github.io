@@ -25,6 +25,7 @@ main {
   height: 160px;
   background-color: red;
   border: 5px solid white;
+  float: left;
 }
 .rightsidecourt {
   width: 160px;
