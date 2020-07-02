@@ -1,11 +1,13 @@
 body {
+  background-color: yellow;
+}
+main {
   width: 960px;
   height: 2160px;
-  background-color: yellow;
 }
 .headerbox {
   width: 960px;
   height: 160px;
   background-color: red;
-  border: 10px solid white;
+  border: 5px solid white;
 }
