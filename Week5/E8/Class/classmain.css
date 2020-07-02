@@ -132,7 +132,7 @@ main {
   height: 0;
   border-left: solid 100px transparent;
   border-right: solid 100px transparent;
-  border-bottom: solid 70px red;
+  border-bottom: solid 70px white;
   transform:rotatez(35deg);
   float: left;
 }
