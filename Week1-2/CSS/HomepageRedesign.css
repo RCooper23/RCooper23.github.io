@@ -4,7 +4,12 @@ body {
   header {
     width: 75vw;
     margin: 25px auto;
-    background: white;
+    background-color: aquamarine;
+  }
+  main {
+    width: 75vw;
+    margin: 25px auto;
+    background-color: yellow
   }
   h2 {
     color: aquamarine;
