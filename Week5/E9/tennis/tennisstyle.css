@@ -20,6 +20,13 @@ main {
   border: 5px solid white;
   float: left;
 }
+.blank {
+  width: 480px;
+  height: 480px;
+  background-color: red;
+  border: 5px solid white;
+  float: left;
+}
 .middle {
   width: 160px;
   height: 160px;
