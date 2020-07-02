@@ -8,9 +8,9 @@ main {
 .headerbox {
   width: 960px;
   height: 160px;
-  margin: 0px auto;
   background-color: red;
   border: 5px solid white;
+  float: left;
 }
 .divider {
   width: 960px;
@@ -21,7 +21,7 @@ main {
   float: left;
 }
 .col1 {
-  width: 314px;
+  width: 313px;
   height: 600px;
   margin: 0px auto;
   background-color: red;
@@ -29,7 +29,7 @@ main {
   float: left;
 }
 .col2 {
-  width: 314px;
+  width: 313px;
   height: 600px;
   margin: 0px auto;
   background-color: red;
