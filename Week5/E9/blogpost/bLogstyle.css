@@ -22,7 +22,7 @@ main {
 .bodycontent {
   width: 712px;
   height: 56px;
-  background-color: white;
+  background-color: red;
   border: 5px solid white;
 }
 .footer {
