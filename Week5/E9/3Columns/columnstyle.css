@@ -16,6 +16,7 @@ main {
   height: 40px;
   background-color: red;
   border: 5px solid white;
+  float: left;
 }
 .col1 {
   width: 320px;
