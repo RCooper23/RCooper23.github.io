@@ -13,15 +13,15 @@ main {
   border: 5px solid white;
   float: left;
 }
-.middle {
-  width: 160px;
+.topbackcourt{
+  width: 320px;
   height: 160px;
   background-color: red;
   border: 5px solid white;
   float: left;
 }
-.topbackcourt{
-  width: 320px;
+.middle {
+  width: 160px;
   height: 160px;
   background-color: red;
   border: 5px solid white;
