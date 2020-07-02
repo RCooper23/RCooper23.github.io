@@ -4,12 +4,11 @@ body {
 main {
   width: 1000px;
   height: 2160px;
-  margin:0px auto;
+  margin: 0px auto;
 }
 .leftsidecourt {
   width: 160px;
   height: 480px;
-  background-color: red;
   background-color: red;
   border: 5px solid white;
 }
@@ -17,20 +16,17 @@ main {
   width: 160px;
   height: 160px;
   background-color: red;
-  background-color: red;
   border: 5px solid white;
 }
 .topbackcourt{
   width: 160px;
   height: 320px;
   background-color: red;
-  background-color: red;
   border: 5px solid white;
 }
 .rightsidecourt {
   width: 160px;
   height: 480px;
-  background-color: red;
   background-color: red;
   border: 5px solid white;
 }
