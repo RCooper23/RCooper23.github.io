@@ -57,7 +57,7 @@ main {
 .CR1 {
   width: 100px;
   height: 100px;
-  background-color: black;
+  background-color: grey;
   float: left;
   margin: -5px;
   border-radius: 50%;
