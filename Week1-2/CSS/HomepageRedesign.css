@@ -27,7 +27,8 @@ body {
   u {
     color: gray;
   }
-.Col {
-  width: 50%;
-  background-color: blue;
-}
+  .Col {
+    width: 50%;
+    background-color: blue;
+    float: left;
+  }
