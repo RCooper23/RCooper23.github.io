@@ -1,5 +1,5 @@
 body {
-  background-color: yellow;
+  background-color: white;
 }
 main {
   width: 960px;
@@ -22,7 +22,7 @@ main {
 }
 .col1 {
   width: 310px;
-  height: 600px;
+  height: 1200px;
   margin: 0px auto;
   background-color: red;
   border: 5px solid white;
@@ -30,7 +30,7 @@ main {
 }
 .col2 {
   width: 310px;
-  height: 600px;
+  height: 1200px;
   margin: 0px auto;
   background-color: red;
   border: 5px solid white;
@@ -38,7 +38,7 @@ main {
 }
 .col3 {
   width: 310px;
-  height: 600px;
+  height: 1200px;
   margin: 0px auto;
   background-color: red;
   border: 5px solid white;
