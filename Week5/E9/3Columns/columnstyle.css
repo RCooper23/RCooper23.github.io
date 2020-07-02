@@ -4,6 +4,7 @@ body {
 main {
   width: 960px;
   height: 2160px;
+  margin:0px auto;
 }
 .headerbox {
   width: 950px;
