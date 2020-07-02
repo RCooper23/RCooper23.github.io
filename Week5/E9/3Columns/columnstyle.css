@@ -60,6 +60,6 @@ main {
 .rightside {
   width: 480px;
   height:1560px;
-  background-color: yellow;
+  background-color: blue;
   float:left;
 }
