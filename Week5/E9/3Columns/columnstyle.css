@@ -11,3 +11,15 @@ main {
   background-color: red;
   border: 5px solid white;
 }
+.divider {
+  width: 960px;
+  height: 40px;
+  background-color: red;
+  border: 5px solid white;
+}
+.col1 {
+  width: 320px;
+  height: 600px;
+  background-color: red;
+  border: 5px solid white;
+}
