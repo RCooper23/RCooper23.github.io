@@ -55,9 +55,9 @@ main {
   opacity: .75;
 }
 .CR1 {
-  width: 100px;
-  height: 100px;
-  background-color: #9C9696;
+  width: 400px;
+  height: 400px;
+  background-color: pink;
   border-width: 5px;
   border-color: white
   float: left;
