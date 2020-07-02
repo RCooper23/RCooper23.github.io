@@ -116,7 +116,7 @@ main {
   border-right: solid 100px transparent;
   border-bottom: solid 70px red;
   transform:rotatez(35deg);
-  float:left;
+  float: left;
 }
 .five: before{
   position: absolute;
@@ -130,7 +130,6 @@ main {
   border-right: solid 30px transparent;
   border-bottom: solid 80px red;
   transform:rotatez(-35deg);
-  float:left;
 }
 .five: after {
   position: absolute;
@@ -144,7 +143,6 @@ main {
   border-right: solid 30px transparent;
   border-bottom: solid 80px red;
   transform:rotatez(-70deg);
-  float: left;
 }
 
 .five2 {
@@ -156,7 +154,32 @@ main {
   transform:rotatez(35deg);
   float: left;
 }
-
+.five2: before{
+  position: absolute;
+  display: block;
+  content: '';
+  width: 0;
+  height: 0;
+  top: -45px;
+  left: -65px;
+  border-left: solid 30px transparent;
+  border-right: solid 30px transparent;
+  border-bottom: solid 80px red;
+  transform:rotatez(-35deg);
+}
+.five2: after {
+  position: absolute;
+  display: block;
+  content: '';
+  width: 0;
+  height: 0;
+  top: -3px;
+  left: -105px;
+  border-left: solid 30px transparent;
+  border-right: solid 30px transparent;
+  border-bottom: solid 80px red;
+  transform:rotatez(-70deg);
+}
 .five3 {
   width: 0;
   height: 0;
@@ -165,4 +188,30 @@ main {
   border-bottom: solid 70px red;
   transform:rotatez(35deg);
   float: left;
+}
+.five3: before{
+  position: absolute;
+  display: block;
+  content: '';
+  width: 0;
+  height: 0;
+  top: -45px;
+  left: -65px;
+  border-left: solid 30px transparent;
+  border-right: solid 30px transparent;
+  border-bottom: solid 80px red;
+  transform:rotatez(-35deg);
+}
+.five3: after {
+  position: absolute;
+  display: block;
+  content: '';
+  width: 0;
+  height: 0;
+  top: -3px;
+  left: -105px;
+  border-left: solid 30px transparent;
+  border-right: solid 30px transparent;
+  border-bottom: solid 80px red;
+  transform:rotatez(-70deg);
 }
