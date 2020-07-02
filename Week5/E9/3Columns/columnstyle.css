@@ -7,6 +7,5 @@ body {
   width: 960px;
   height: 160px;
   background-color: red;
-  border: 10px;
-  border-color: white;
+  border: 10px solid white;
 }
