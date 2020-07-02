@@ -17,20 +17,6 @@ main {
   background-color: red;
   border: 5px solid white;
 }
-.col1 {
-  width: 290px;
-  height: 600px;
-  background-color: red;
-  border: 5px solid white;
-  float: left;
-}
-.col2 {
-  width: 290px;
-  height: 600px;
-  background-color: red;
-  border: 5px solid white;
-  float:left;
-}
 .col3 {
   width: 290px;
   height: 600px;
