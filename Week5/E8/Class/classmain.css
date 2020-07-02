@@ -62,3 +62,19 @@ main {
   margin: -5px;
   border-radius: 50%;
 }
+.CP2 {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  float: left;
+  margin: -5px;
+  border-radius: 50%;
+}
+.CP3 {
+  width: 100px;
+  height: 100px;
+  background-color: tomato;
+  float: left;
+  margin: -5px;
+  border-radius: 50%;
+}
