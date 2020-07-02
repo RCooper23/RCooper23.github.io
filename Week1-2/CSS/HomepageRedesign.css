@@ -29,12 +29,7 @@ body {
     color: gray;
   }
   .Col {
-    width: 37.5vw;
-    background-color: blue;
-    float: left;
-  }
-  .COl2 {
     width: 50%;
     background-color: blue;
-    float: right;
+    float: left;
   }
