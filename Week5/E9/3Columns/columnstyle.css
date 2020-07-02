@@ -19,27 +19,27 @@ main {
   float: left;
 }
 .col1 {
-  width: 320px;
+  width: 314px;
   height: 600px;
   background-color: red;
   border: 5px solid white;
   float: left;
 }
 .col2 {
-  width: 320px;
+  width: 314px;
   height: 600px;
   background-color: red;
   border: 5px solid white;
   float: left;
 }
 .col3 {
-  width: 320px;
+  width: 314px;
   height: 600px;
   background-color: red;
   border: 5px solid white;
   float: left;
 }
-.feeter {
+.footer {
   width: 960px;
   height: 160px;
   background-color: red;
