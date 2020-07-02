@@ -11,29 +11,26 @@ main {
   height: 480px;
   background-color: red;
   border: 5px solid white;
+  float: left;
 }
 .middle {
   width: 160px;
   height: 160px;
   background-color: red;
   border: 5px solid white;
+  float: left;
 }
 .topbackcourt{
   width: 160px;
   height: 320px;
   background-color: red;
   border: 5px solid white;
+  float: left;
 }
 .rightsidecourt {
   width: 160px;
   height: 480px;
   background-color: red;
   border: 5px solid white;
-}
-.footer {
-  width: 950px;
-  height: 160px;
-  margin: 0px auto;
-  background-color: red;
-  border: 5px solid white;
   float: left;
+}
