@@ -9,7 +9,6 @@ header {
 main {
   width: 75vw;
   margin: 25px auto;
-  background-color: yellow;
   display: flow-roots;
 }
 h2 {
@@ -31,11 +30,9 @@ u {
 }
 .Col {
   width: 50%;
-  background-color: blue;
   float: left;
 }
 .Col2 {
   width: 50%;
-  background-color: blue;
   float: right;
 }
