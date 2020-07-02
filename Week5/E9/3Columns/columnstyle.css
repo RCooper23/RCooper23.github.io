@@ -1,10 +1,15 @@
 body {
-
   background-color: white;
 }
+.leftside {
+  width: 480px;
+  height:1560px;
+  background-color: white;
+  float:left;
+}
 main {
-  width: 960vw;
-  height: 2160vw;
+  width: 960px;
+  height: 2160px;
 }
 .headerbox {
   width: 950px;
@@ -51,4 +56,10 @@ main {
   background-color: red;
   border: 5px solid white;
   float: left;
+}
+.rightside {
+  width: 480px;
+  height:1560px;
+  background-color: white;
+  float:left;
 }
