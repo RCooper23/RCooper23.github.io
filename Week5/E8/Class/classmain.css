@@ -102,6 +102,8 @@ main {
   width: 100px;
   height: 100px;
   background-color: grey;
+  box-shadow: -5px 20px, white;
+  opacity: .50;
   float: left;
   margin: -5px;
   border-radius: 50%;
