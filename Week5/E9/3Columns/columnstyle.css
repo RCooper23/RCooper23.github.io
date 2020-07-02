@@ -21,6 +21,7 @@ main {
 .col1 {
   width: 314px;
   height: 600px;
+  margin: 0px;
   background-color: red;
   border: 5px solid white;
   float: left;
@@ -28,6 +29,7 @@ main {
 .col2 {
   width: 314px;
   height: 600px;
+  margin: 0px;
   background-color: red;
   border: 5px solid white;
   float: left;
@@ -35,6 +37,7 @@ main {
 .col3 {
   width: 314px;
   height: 600px;
+  margin: 0px;
   background-color: red;
   border: 5px solid white;
   float: left;
