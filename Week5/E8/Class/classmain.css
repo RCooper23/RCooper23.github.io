@@ -94,6 +94,7 @@ main {
   width: 100px;
   height: 100px;
   background-color: pink;
+  shape-inside: rectangle(5px white);
   float: left;
   margin: -5px;
   border-radius: 50%;
