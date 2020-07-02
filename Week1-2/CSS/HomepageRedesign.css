@@ -9,7 +9,7 @@ body {
   main {
     width: 75vw;
     margin: 25px auto;
-    background-color: yellow
+    background-color: yellow;
     display: flow-roots;
   }
   h2 {
