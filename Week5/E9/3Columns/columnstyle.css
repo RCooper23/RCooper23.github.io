@@ -1,5 +1,5 @@
 body {
-  background-color: white;
+  background-color: yellow;
 }
 main {
   width: 1920px;
@@ -47,5 +47,4 @@ main {
   height: 160px;
   background-color: red;
   border: 5px solid white;
-  float: left;
 }
