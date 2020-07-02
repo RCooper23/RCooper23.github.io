@@ -109,3 +109,37 @@ main {
   margin: -5px;
   border-radius: 50%;
 }
+.five {
+  width: 0;
+  height: 0;
+  border-left: solid 100px transparent;
+  border-right: solid 100px transparent;
+  border-bottom: solid 70px red;
+  transform: rotatez(35deg);
+}
+.five: before{
+  position: absolute;
+  display: block;
+  content: '';
+  width: 0;
+  height: 0;
+  top: -45px;
+  left: -65px;
+  border-left: solid 30px transparent;
+  border-right: solid 30px transparent;
+  border-bottom: solid 80px red;
+  transform: rotatez(-35deg);
+}
+.five: after {
+  position: absolute;
+  display: block;
+  content: '';
+  width: 0;
+  height: 0;
+  top: -3px;
+  left: -105px;
+  border-left: solid 30px transparent;
+  border-right: solid 30px transparent;
+  border-bottom: solid 80px red;
+  transform: rotatez(-70deg);
+}
