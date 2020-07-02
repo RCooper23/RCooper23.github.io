@@ -22,7 +22,7 @@ main {
   float: left;
 }
 .bodycontent {
-  width: 712px;
+  width: 700px;
   height: 250px;
   background-color: red;
   border: 5px solid white;
@@ -38,6 +38,7 @@ main {
 .footer {
   width: 950px;
   height: 50px;
+  margin: 0px auto;
   background-color: red;
   border: 5px solid white;
 }
