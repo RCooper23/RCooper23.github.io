@@ -54,3 +54,11 @@ main {
   margin: -5px;
   opacity: .75;
 }
+.CR1 {
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: left;
+  margin: -5px;
+  border-radius: 50%;
+}
