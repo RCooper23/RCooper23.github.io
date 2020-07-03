@@ -22,7 +22,7 @@ main {
 }
 .blank {
   width: 480px;
-  height: 315px;
+  height: 310px;
   background-color: red;
   border: 5px solid white;
   float: left;
