@@ -2,8 +2,9 @@ body {
   background-color: yellow;
 }
 .mainbody {
-  width: 630px;
+  width: 620px;
   height: 1890px;
   background-color: red;
   border: 5px solid white;
+  float: left;
 }
