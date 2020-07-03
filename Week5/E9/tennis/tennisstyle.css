@@ -7,29 +7,29 @@ main {
   margin: 0px auto;
 }
 .leftsidecourt {
-  width: 140px;
+  width: 155px;
   height: 430px;
   background-color: red;
   border: 5px solid white;
   float: left;
 }
 .topbackcourt{
-  width: 500px;
-  height: 120px;
+  width: 465px;
+  height: 155px;
   background-color: red;
   border: 5px solid white;
   float: left;
 }
 .middleleft {
   width: 275px;
-  height: 300px;
+  height: 310px;
   background-color: red;
   border: 5px solid white;
   float: left;
 }
 .middleright {
   width: 275px;
-  height: 300px;
+  height: 310px;
   background-color: pink;
   border: 5px solid white;
   float: left;
