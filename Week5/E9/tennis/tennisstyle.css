@@ -21,7 +21,7 @@ main {
   float: left;
 }
 .blank {
-  width: 480px;
+  width: 160px;
   height: 310px;
   background-color: red;
   border: 5px solid white;
