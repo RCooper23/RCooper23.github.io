@@ -2,8 +2,8 @@ body {
   background-color: blue;
 }
 main {
-  width: 1000px;
-  height: 2160px;
+  width: 960px;
+  height: 960px;
   margin: 0px auto;
 }
 .leftsidecourt {
@@ -22,7 +22,7 @@ main {
 }
 .middleleft {
   width: 160px;
-  height: 310px;
+  height: 160px;
   background-color: red;
   border: 5px solid white;
   float: left;
