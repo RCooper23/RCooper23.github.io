@@ -1,5 +1,5 @@
 body {
-  background-color: yellow;
+  background-color: red;
 }
 .mainbody {
   width: 615px;
@@ -26,7 +26,7 @@ body {
   width: 66.85px;
   height: 270px;
   background-color: red;
-  border: 5px solid white;
+  border: 5px solid red;
   float: right;
 }
 .unit2-2 {
@@ -36,9 +36,23 @@ body {
   border: 5px solid white;
   float: right;
 }
-.unit1SP {
+.unit1R {
   width: 66.80px;
   height: 130px;
+  background-color: red;
+  border: 5px solid white;
+  float: Right;
+}
+.unit2-2L {
+  width: 143.7px;
+  height: 270px;
+  background-color: red;
+  border: 5px solid white;
+  float: left;
+}
+.unt1-2L {
+  width: 66.85px;
+  height: 270px;
   background-color: red;
   border: 5px solid white;
   float: left;
