@@ -2,8 +2,15 @@ body {
   background-color: yellow;
 }
 .mainbody {
-  width: 620px;
-  height: 1890px;
+  width: 615px;
+  height: 980px;
+  background-color: red;
+  border: 5px solid white;
+  float: left;
+}
+.unit1 {
+  width: 66.85px;
+  height: 130px;
   background-color: red;
   border: 5px solid white;
   float: left;
