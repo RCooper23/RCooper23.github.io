@@ -8,7 +8,7 @@ main {
 }
 .leftsidecourt {
   width: 140px;
-  height: 420px;
+  height: 430px;
   background-color: red;
   border: 5px solid white;
   float: left;
@@ -21,14 +21,14 @@ main {
   float: left;
 }
 .middleleft {
-  width: 300px;
+  width: 250px;
   height: 300px;
   background-color: red;
   border: 5px solid white;
   float: left;
 }
 .middleright {
-  width: 300px;
+  width: 250px;
   height: 300px;
   background-color: pink;
   border: 5px solid white;
