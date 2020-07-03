@@ -36,10 +36,17 @@ body {
   border: 5px solid white;
   float: left;
 }
+.unit2-2.5 {
+  width: 143.7px;
+  height: 250px;
+  background-color: red;
+  border: 5px solid white;
+  float: right;
+}
 .unit1SP {
-  width: 15px;
+  width: 65px;
   height: 130px;
   background-color: red;
   border: 5px solid white;
-  float: left;
+  float: inherit;
 }
