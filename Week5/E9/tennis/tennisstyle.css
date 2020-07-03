@@ -21,15 +21,15 @@ main {
   float: left;
 }
 .middleleft {
-  width: 320px;
-  height: 320px;
+  width: 300px;
+  height: 300px;
   background-color: red;
   border: 5px solid white;
   float: left;
 }
 .middleright {
-  width: 320px;
-  height: 320px;
+  width: 300px;
+  height: 300px;
   background-color: pink;
   border: 5px solid white;
   float: left;
