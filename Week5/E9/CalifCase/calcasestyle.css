@@ -9,7 +9,35 @@ body {
   float: left;
 }
 .unit1 {
+  width: 66.80px;
+  height: 130px;
+  background-color: red;
+  border: 5px solid white;
+  float: left;
+}
+.unit2-3 {
+  width: 143.7px;
+  height: 390px;
+  background-color: red;
+  border: 5px solid white;
+  float: right;
+}
+.unt1-2 {
   width: 66.85px;
+  height: 250px;
+  background-color: red;
+  border: 5px solid white;
+  float: left;
+}
+.unit2-2 {
+  width: 143.7px;
+  height: 250px;
+  background-color: red;
+  border: 5px solid white;
+  float: left;
+}
+.unit1SP {
+  width: 15px;
   height: 130px;
   background-color: red;
   border: 5px solid white;
