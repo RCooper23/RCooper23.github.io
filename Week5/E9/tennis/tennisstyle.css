@@ -1,5 +1,5 @@
 body {
-  background-color: blue;
+  background-color: white;
 }
 main {
   width: 960px;
@@ -7,37 +7,37 @@ main {
   margin: 0px auto;
 }
 .leftsidecourt {
-  width: 155px;
+  width: 190px;
   height: 430px;
   background-color: red;
   border: 5px solid white;
   float: left;
 }
 .topbackcourt{
-  width: 465px;
+  width: 550px;
   height: 155px;
   background-color: red;
   border: 5px solid white;
   float: left;
 }
 .middleleft {
-  width: 227.5px;
+  width: 270px;
   height: 265px;
   background-color: red;
   border: 5px solid white;
   float: left;
 }
 .middleright {
-  width: 227.5px;
+  width: 270px;
   height: 265px;
-  background-color: pink;
-  border: 5px solid white;
-  float: left;
-}
-.bottomleftsidecourt {
-  width: 155px;
-  height: 430px;
   background-color: red;
   border: 5px solid white;
   float: left;
+}
+.rightsidecourt {
+  width: 190px;
+  height: 430px;
+  background-color: red;
+  border: 5px solid white;
+  float: right;
 }
