@@ -34,10 +34,10 @@ main {
   border: 5px solid white;
   float: left;
 }
-.rightsidecourt {
-  width: 160px;
-  height: 480px;
+.bottomleftsidecourt {
+  width: 155px;
+  height: 430px;
   background-color: red;
   border: 5px solid white;
-  float: left;
+  float: right;
 }
