@@ -28,9 +28,9 @@ main {
   float: left;
 }
 .middleright {
-  width: 160px;
-  height: 160px;
-  background-color: red;
+  width: 200px;
+  height: 200px;
+  background-color: pink;
   border: 5px solid white;
   float: left;
 }
