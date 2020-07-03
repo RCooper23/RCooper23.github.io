@@ -7,14 +7,14 @@ main {
   margin: 0px auto;
 }
 .leftsidecourt {
-  width: 160px;
+  width: 140px;
   height: 480px;
   background-color: red;
   border: 5px solid white;
   float: left;
 }
 .topbackcourt{
-  width: 480px;
+  width: 500px;
   height: 120px;
   background-color: red;
   border: 5px solid white;
