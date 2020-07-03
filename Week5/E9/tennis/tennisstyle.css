@@ -21,8 +21,8 @@ main {
   float: left;
 }
 .middleleft {
-  width: 180px;
-  height: 180px;
+  width: 200px;
+  height: 200px;
   background-color: red;
   border: 5px solid white;
   float: left;
