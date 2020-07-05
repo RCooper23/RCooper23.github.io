@@ -71,21 +71,21 @@ img {
   width: 549px;
   height: 2052px;
   border: 3px;
-  border-color: grey;
+  border-color: #929192;
   float: left;
 }
 .September {
   width: 549px;
   height: 1130px;
   border: 3px;
-  border-color: grey;
+  border-color: #929192;
   float: left;
 }
 .NextMonth {
   width: 549px;
   height: 414px;
   border: 3px;
-  border-color: grey;
+  border-color: #929192;
   float: left;
 }
 a {
