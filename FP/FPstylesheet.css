@@ -70,16 +70,22 @@ img {
 .August {
   width: 549px;
   height: 2052px;
+  border: 3px;
+  border-color: grey;
   float: left;
 }
 .September {
   width: 549px;
   height: 1130px;
+  border: 3px;
+  border-color: grey;
   float: left;
 }
 .NextMonth {
   width: 549px;
   height: 414px;
+  border: 3px;
+  border-color: grey;
   float: left;
 }
 a {
