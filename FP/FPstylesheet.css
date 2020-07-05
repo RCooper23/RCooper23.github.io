@@ -70,23 +70,29 @@ img {
 .August {
   width: 549px;
   height: 1130px;
-  border: 3px;
-  border-color: #929192;
-  float: left;
+  border: 3px solid #929192;
+  padding: 10px;
+  box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
+  opacity: 75px;
+  margin: 30px;
 }
 .September {
   width: 549px;
   height: 1130px;
-  border: 3px;
-  border-color: #929192;
-  float: left;
+  border: 3px solid #929192;
+  padding: 10px;
+  box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
+  opacity: 75px;
+  margin: 30px;
 }
 .NextMonth {
   width: 349px;
   height: 214px;
-  border: 3px;
-  border-color: #929192;
-  float: left;
+  border: 3px solid #929192;
+  padding: 10px;
+  box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
+  opacity: 75px;
+  margin: 30px;
 }
 a {
   color: #DB29EE;
