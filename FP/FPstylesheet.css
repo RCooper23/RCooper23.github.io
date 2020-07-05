@@ -67,8 +67,20 @@ u {
 img {
   left: auto;
 }
-*months{
-  color:
+.August {
+  width: 549px;
+  height: 2052px;
+  float: left;
+}
+.September {
+  width: 549px;
+  height: 1130px;
+  float: left;
+}
+.NextMonth {
+  width: 549px;
+  height: 414px;
+  float: left;
 }
 a {
   color: #DB29EE;
