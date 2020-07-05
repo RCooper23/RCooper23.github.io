@@ -48,13 +48,13 @@ img {
   max-width: 100%
 }
 div {
-  border: 3px solid;
+  border: 3px solid #929192;
   padding: 10px;
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
   opacity: 75px;
   margin: 30px;
 }
-cancellation {
+.cancellation {
   color: #DB29EE;
 }
 em {
