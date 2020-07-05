@@ -53,7 +53,6 @@ div {
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
   opacity: 75px;
   margin: 30px;
-  float: left;
 }
 .cancellation {
   color: #DB29EE;
@@ -67,6 +66,27 @@ u {
 }
 img {
   left: auto;
+}
+.August {
+  width: 549px;
+  height: 1130px;
+  border: 3px;
+  border-color: #929192;
+  float: left;
+}
+.September {
+  width: 549px;
+  height: 1130px;
+  border: 3px;
+  border-color: #929192;
+  float: left;
+}
+.NextMonth {
+  width: 349px;
+  height: 214px;
+  border: 3px;
+  border-color: #929192;
+  float: left;
 }
 a {
   color: #DB29EE;
