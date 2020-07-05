@@ -75,6 +75,7 @@ img {
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
   opacity: 75px;
   margin: 30px;
+  float: left;
 }
 .September {
   width: 549px;
@@ -84,6 +85,7 @@ img {
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
   opacity: 75px;
   margin: 30px;
+  float: right;
 }
 .NextMonth {
   width: 349px;
@@ -93,6 +95,7 @@ img {
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
   opacity: 75px;
   margin: 30px;
+  float: right;
 }
 a {
   color: #DB29EE;
