@@ -101,3 +101,9 @@ a {
   border-color: black;
   float: left;
 }
+.Blanks {
+  width: 10px;
+  height: 288px;
+  border-color: black;
+  float: right;
+}
