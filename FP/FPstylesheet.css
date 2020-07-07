@@ -102,8 +102,14 @@ a {
   float: left;
 }
 .Blanks {
-  width: 3px;
+  width: 16px;
   height: 5px;
   border-color: black;
   float: left;
+}
+.leftcol {
+  width: 224px;
+  height: 1009px;
+  border-color: black;
+  float: left
 }
