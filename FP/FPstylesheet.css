@@ -108,8 +108,16 @@ a {
   float: left;
 }
 .leftcol {
-  width: 224px;
+  width: 191px;
   height: 1009px;
-  border-color: black;
+  border: 3px;
+  border-color: white;
   float: left
+}
+.Blanksdown {
+  width: 20px;
+  height: 16px;
+  border: 3px;
+  border-color: white;
+  float: left;
 }
