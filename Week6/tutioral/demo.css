@@ -2,40 +2,32 @@ body {
   background-color: tomato;
 }
 main {
-  width: 525px;
+  width: 700px;
   height: 400px;
   margin: 0 25px;
 }
-.blank300 {
-  width: 300px;
-  height: 200px;
-  margin: 25px;
-  float: left;
-
+.blankleft {
+  width: 400px;
+  height: 400px;
 }
 .block100 {
   width: 100px;
   height: 100px;
-  color: blue;
+  background-color: blue;
   margin: 25px;
   float: left;
 }
 .block200 {
-  width: 200px;
+  width: 250px;
   height: 100px;
-  color: blue;
+  background-color: blue;
   margin: 25px;
   float: left;
 }
-.blankW200 {
-  width: 200px;
-  height: 100px;
-  margin: 25px;
-}
-.blackw100h200 {
+.blockw100h250 {
   width: 100px;
-  height: 200px;
-  color: blue;
+  height: 250px;
+  background-color: blue;
   margin: 25px;
   float: left;
 }
