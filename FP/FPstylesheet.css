@@ -97,5 +97,7 @@ a {
   float:right;
 }
 .images {
+  border: 5px;
+  border-color: black;
   float: left;
 }
