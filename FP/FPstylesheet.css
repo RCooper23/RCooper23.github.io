@@ -47,9 +47,6 @@ li {
 img {
   max-width: 100%
 }
-.cancellation {
-  color: #DB29EE;
-}
 em {
   text-align: center;
 }
@@ -93,6 +90,20 @@ img {
 a {
   color: #DB29EE;
 }
+.gallery {
+  width: 1440px;
+  height: 900px;
+  border: 3px solid #929192;
+  float: left;
+}
+.post {
+  border: 3px solid #929192;
+  padding: 10px;
+  border: 3px solid #929192;
+  padding: 10px;
+  box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
+  opacity: 75px;
+}
 .OrangePuff {
   float:right;
 }
@@ -100,6 +111,11 @@ a {
   border: 10px;
   border-color: black;
   margin: 10px;
+  float: left;
+}
+.album-artist {
+  width: 300px;
+  height: 410px;
   float: left;
 }
 .Blanks {
@@ -123,8 +139,13 @@ a {
   float: left;
 }
 .middlecol {
-  width: 525px;
-  height: 1009px;
+  width: 1100px;
+  height: 200px;
+  float: left;
+}
+.twopicture {
+  width: 400px;
+  height: 300px;
   float: left;
 }
 .ArtistMusic {
@@ -133,7 +154,32 @@ a {
   float: left;
 }
 .trumpetspin {
-  width: 195px;
+  width: 200px;
   height: 754px;
+  float: left;
+}
+.artist1 {
+  width: 315px;
+  height: 750px;
+  float: left;
+}
+.final {
+  width: 215px;
+  height: 620px;
+  float: left;
+}
+.blankmiddle {
+  width: 349px;
+  height: 214px;
+  border: 3px solid #929192;
+  padding: 10px;
+  box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
+  opacity: 75px;
+  margin: 30px;
+  float: right;
+}
+.doubelblank {
+  width: 16px;
+  height: 110px;
   float: left;
 }
