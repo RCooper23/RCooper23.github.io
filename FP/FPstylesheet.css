@@ -16,7 +16,7 @@ nav {
 }
 .navspace {
   margin: 10px;
-  background-color: blue;
+  background-image: url('Album-blank.png');
   float: right;
 }
 h1 {
