@@ -31,15 +31,42 @@ u {
 .Col {
   width: 50%;
   border: 5px;
+  margin: 5px auto;
   float: left;
 }
-.Col2 {
-  width: 50%;
+.divider {
+  width: 5px;
+  height: 25px;
+  background-color: blue;
   border: 5px;
-  float: right;
+  float: left;
 }
+/** **/
 @media screen and (max-width: 900px) {
   body {
-    background-color: yellow;
+    background-color: #cccccc;
+  }
+  .col {
+    width: 75%;
+    margin: 25px auto;
+  }
+  header {
+    width: 85vw;
+    margin: 10px auto;
+  }
+  main {
+    width: 90vw;
+  }
+}
+@media screen and (max-width: 700px) {
+  body {
+    background-color: red;
+  }
+  .col {
+    width: 100%;
+  }
+  header {
+    width: 100vw;
+    margin: 0px auto;
   }
 }
