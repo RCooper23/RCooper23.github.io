@@ -1,0 +1,29 @@
+main {
+  width: 50%;
+  margin: 50px auto;
+}
+h1 {
+  font-size: 75px;
+  color: black;
+}
+h2 {
+  font-size: 45px;
+}
+h4 {
+  font-size: 35px;
+}
+p {
+  line-height: 30px;
+  margin: 25px;
+  font-size: 20px;
+}
+.AuthorIllustrator {
+  width: 786px;
+  height: 264px;
+  float: left;
+}
+.paragraph {
+  width: 25vw;
+  height: 2230px;
+  float: right;
+}

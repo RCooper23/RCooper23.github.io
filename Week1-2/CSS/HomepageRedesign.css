@@ -38,9 +38,8 @@ u {
   border: 5px;
   float: right;
 }
-.purpleline {
-  width: 1000px;
-  height: 15px;
-  background-color: #AA0ABB;
-  float: left;
+@media screen and (max-width: 900px) {
+  body {
+    background-color: yellow;
+  }
 }
