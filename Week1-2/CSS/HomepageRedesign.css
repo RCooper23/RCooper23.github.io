@@ -31,7 +31,7 @@ u {
 .Col {
   width: 50%;
   border: 5px;
-  margin: 5px auto;
+  margin: 25px auto;
   float: left;
 }
 .divider {
@@ -46,23 +46,20 @@ u {
   body {
     background-color: #cccccc;
   }
-  .col {
-    width: 75%;
-    margin: 25px auto;
-  }
   header {
     width: 85vw;
     margin: 10px auto;
   }
   main {
-    width: 90vw;
+    width: 75vw;
+    margin: 50px auto;
   }
 }
 @media screen and (max-width: 700px) {
   body {
     background-color: red;
   }
-  .col {
+  .Col {
     width: 100%;
   }
   header {

@@ -1,13 +1,121 @@
+body {
+  background-color: tomato;
+}
+header {
+  width: 100vw;
+  height: 175px;
+  margin: 25px auto;
+}
+main {
+  width: 50%;
+  margin: 50px auto;
+}
 h1 {
-  font-size: 100px;
+  font-size: 75px;
+  font-family: 'Fondamento', cursive;
   color: black;
 }
 h2 {
-  font-size: 75px;
+  font-size: 35px;
+  font-family: 'Merienda One', cursive;
+  line-height: 50px;
+}
+h3 {
+  font-size: 45px;
+  font-family: 'Fondamento', cursive;
 }
 h4 {
-  font-size: 45px;
+  font-size: 35px;
+  font-family: 'Fondamento', cursive;
 }
 p {
   font-size: 20px;
+}
+.booktitle {
+  width: 50vw;
+  height: 175px;
+  float: left;
+}
+.AL {
+  width: 40vw;
+  height: 175px;
+  float: left;
+}
+.cook {
+  width: 25vw;
+  float: left;
+}
+.bristol {
+  width: 25vw;
+  text-align: right;
+  float: left;
+}
+/** **/
+@media screen and (max-width: 1600px) {
+    h4 {
+      font-size: 30px;
+    }
+    .cook {
+      width: 24vw;
+    }
+  .bristol {
+    width: 24vw;
+  }
+}
+@media screen and (max-width: 1200px) {
+  body {
+    background-color: #cccccc;
+  }
+  main {
+    width: 50%;
+    margin: 25px auto;
+  }
+  h1 {
+    font-size: 50px;
+  }
+  h2 {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .booktitle {
+    width: 40vw;
+  }
+  .AL {
+    width: 35vw;
+  }
+  h4 {
+    font-size: 25px;
+  }
+}
+@media screen and (max-width: 900px) {
+  body {
+    background-color: aquamarine;
+  }
+  main {
+    width: 50%;
+    margin: 25px auto;
+  }
+  h1 {
+    font-size: 30px;
+  }
+  h2 {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .booktitle {
+    width: 40vw;
+    margin: 10px auto;
+  }
+  .AL {
+    width: 35vw;
+  }
+  .cook {
+    width: 24vw;
+  }
+  .bristol {
+    width: 24vw;
+  }
+  h4 {
+    font-size: 20px;
+  }
 }
