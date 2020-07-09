@@ -65,6 +65,9 @@ p {
   float: left;
 }
 /** **/
+@-ms-viewport {
+  width: device-width;
+}
 @media screen and (max-width: 1600px) {
     h4 {
       font-size: 30px;

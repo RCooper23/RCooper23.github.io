@@ -51,6 +51,9 @@ p {
   float: left;
 }
 /** **/
+@-ms-viewport {
+  width: device-width;
+}
 @media screen and (max-width: 1600px) {
   main {
     width: 50%;
