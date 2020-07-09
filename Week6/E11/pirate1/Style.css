@@ -1,5 +1,10 @@
 body {
-  background-color: tomato;
+    background-repeat: no-repeat;
+    background-image: url("background.png");
+    background-blend-mode: lighten;
+    background-attachment: fixed;
+    background-size: cover;
+  }
 }
 header {
   width: 100vw;
@@ -46,8 +51,17 @@ p {
   float: left;
 }
 .bristol {
-  width: 25vw;
+  width: 22vw;
   text-align: right;
+  float: left;
+}
+.paragraph {
+  width: 50vw;
+  float: left;
+}
+.footer {
+  width: 100px;
+  height: 25px;
   float: left;
 }
 /** **/
@@ -104,18 +118,35 @@ p {
   }
   .booktitle {
     width: 40vw;
+    height: 50px;
     margin: 10px auto;
   }
   .AL {
-    width: 35vw;
+    width: 30vw;
   }
   .cook {
-    width: 24vw;
+    width: 20vw;
   }
   .bristol {
-    width: 24vw;
+    width: 20vw;
+    text-align: left;
+    float: left;
   }
   h4 {
     font-size: 20px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .booktitle {
+    width:50vw;
+  }
+  .AL {
+    width: 50vw;
+  }
+  .cook {
+    width: 50vw;
+  }
+  .bristol {
+    width: 50vw;
   }
 }
