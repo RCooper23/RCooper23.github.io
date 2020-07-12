@@ -282,6 +282,27 @@ a {
   height: 51px;
   float: left;
 }
+/** Album**/
+.Albumpage {
+  width: 95%;
+  height: 613px;
+  border: 3px solid #929192;
+  padding: 10px;
+  box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
+  opacity: 75px;
+  margin: 30px;
+  float: left;
+}
+.Albumpage2 {
+  width: 95%;
+  height: 433px;
+  border: 3px solid #929192;
+  padding: 10px;
+  box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
+  opacity: 75px;
+  margin: 30px;
+  float: left;
+}
 /** responds **/
 @media screen and (max-width: 1700px) {
   main {
