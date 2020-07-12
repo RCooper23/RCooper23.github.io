@@ -285,11 +285,14 @@ a {
 /** responds **/
 @media screen and (max-width: 1700px) {
   main {
-    width: 75% auto;
+    width: 50% auto;
     margin: 25px auto;
   }
   nav {
     float: left;
+  }
+  .gallery {
+    width: 85vw;
   }
   .title {
     width: 25vw;
