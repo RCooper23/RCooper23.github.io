@@ -6,6 +6,11 @@ body {
     background-blend-mode: lighten;
     background-size: cover;
 }
+.logo {
+  width: 10vw;
+  height: 100px;
+  float: left;
+}
 header {
   width: 100vw;
   height: 250px;
@@ -66,6 +71,7 @@ u {
 img {
   left: auto;
 }
+/****** Event pade ***/
 .August {
   width: 549px;
   height: 1130px;
@@ -96,16 +102,17 @@ img {
   margin: 30px;
   float: right;
 }
+/******End of the event page ******/
 a {
   color: #DB29EE;
 }
 .gallery {
-  width: 1424px;
+  width: 100vw;
   height: 1200px;
   float: left;
 }
 .cancellation {
-  width: 1324px;
+  width: 95%;
   height: 413px;
   border: 3px solid #929192;
   padding: 10px;
@@ -114,16 +121,14 @@ a {
   margin: 30px;
   float: left;
 }
-.post {
-  border: 3px solid #929192;
-  padding: 10px;
-  border: 3px solid #929192;
-  padding: 10px;
-  box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
-  opacity: 75px;
-}
+/****gallery ****/
 .OrangePuff {
   float:right;
+}
+.middledivider {
+  width: 75%;
+  height: 100px;
+  float: left;
 }
 .images {
   border: 10px;
@@ -207,8 +212,9 @@ a {
   background-color: #AA0ABB;
   float: left;
 }
+/*** end of the gallery***/
 .title {
-  width: 565px;
+  width: 50vw;
   height: 46px;
   float: left;
 }
@@ -216,4 +222,119 @@ a {
   width: 40vw;
   height: 15px;
   float: left;
+}
+.updatepost {
+  width: 95%;
+  height: 313px;
+  border: 3px solid #929192;
+  padding: 10px;
+  box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
+  opacity: 75px;
+  margin: 30px;
+  float: left;
+}
+.AlbumTitle {
+  width: 50vw;
+  height: 51px;
+  float: left;
+}
+.ComingSoon {
+  width: 10vw;
+  height: 150px;
+  text-align: right;
+  float: left;
+}
+.Melbourneapolis {
+  width: 15vw;
+  float:left;
+}
+.Buttspace {
+  width: 15vw;
+  height: 25px;
+  float: left;
+}
+.FemaleComment {
+  width: 95%;
+  height: 233px;
+  border: 3px solid #929192;
+  padding: 10px;
+  box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
+  opacity: 75px;
+  margin: 30px;
+  float: left;
+}
+.PostPic {
+  width: 25%;
+  float: left;
+}
+.paraDent {
+  width: 3vw;
+  height: 25px;
+  float: left;
+}
+.paragraph {
+  width: 70%;
+  float: left;
+}
+.Jumo {
+  width:75%;
+  height: 51px;
+  float: left;
+}
+/** responds **/
+@media screen and (max-width: 1700px) {
+  main {
+    width: 75% auto;
+    margin: 25px auto;
+  }
+  nav {
+    float: left;
+  }
+  .title {
+    width: 25vw;
+  }
+  .logo {
+    height: 125px
+  }
+  .cancellation {
+    width: 75%;
+    margin: 25px auto;
+    float: left;
+  }
+  .updatepost {
+    width: 75%;
+    height: 213px;
+    margin: 25px auto;
+    float: left;
+  }
+  .FemaleComment {
+    width: 75%;
+    margin: 25px auto;
+    float: left;
+  }
+  .Buttspace {
+    width: 15vw;
+    height: 50px;
+  }
+  .AlbumTitle {
+    width: 40vw;
+    height: 51px;
+  }
+  .Melbourneapolis {
+    width: 15vw;
+    float:left;
+  }
+  .ComingSoon {
+    width: 20vw;
+  }
+}
+@media screen and (max-width: 1400px) {
+  .Buttspace {
+    width: 20vw;
+    height: 50px;
+  }
+  .AlbumTitle {
+    width: 45vw;
+    height: 51px;
+  }
 }
