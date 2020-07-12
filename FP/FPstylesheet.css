@@ -109,6 +109,7 @@ a {
 .gallery {
   width: 75vw;
   height: 1200px;
+  background-color: red;
   float: left;
 }
 .cancellation {
