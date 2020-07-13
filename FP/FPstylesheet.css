@@ -36,14 +36,16 @@ h1 {
 h2 {
   color: #FFA300;
   font-family: 'Courier New', serif;
-  text-align: center;
+  text-align: left;
   margin: 25px 45px: auto;
 }
 h3 {
+  font-size: 25px;
   color: #FFA300;
   font-family: 'Harlow solid', serif;
 }
 h4 {
+  font-size: 25px;
   Color: white;
   font-family: 'Special Elite', serif;
 }
@@ -56,6 +58,7 @@ p {
 }
 li {
   color: white;
+  line-height: 25px;
   display: inline;
 }
 img {
@@ -285,7 +288,7 @@ a {
 /** Album**/
 .Albumpage {
   width: 95%;
-  height: 613px;
+  height: 513px;
   border: 3px solid #929192;
   padding: 10px;
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
@@ -295,12 +298,52 @@ a {
 }
 .Albumpage2 {
   width: 95%;
-  height: 433px;
+  height: 333px;
   border: 3px solid #929192;
   padding: 10px;
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
   opacity: 75px;
   margin: 30px;
+  float: left;
+}
+.Picture {
+  width: 25%;
+  float: left;
+}
+.list {
+  width: 15%;
+  height: 150px;
+  float: left;
+}
+.Buttspace2 {
+  width: 32vw;
+  height: 130px;
+  float: left;
+}
+.button {
+  width: 30vw;
+  height: 50px;
+  float: left;
+}
+.trackbutton {
+  width: 35vw;
+  height: 50px;
+  text-align: left;
+  float: left;
+}
+.trackbutton2 {
+  width: 15vw;
+  height: 20px;
+  float: left;
+}
+.TitleName {
+  width: 5vw;
+  height: 100px;
+  float: left;
+}
+.MidnightCrisis {
+  width: 45vw;
+  height: 100px;
   float: left;
 }
 /** responds **/
@@ -340,6 +383,7 @@ a {
   .Buttspace {
     width: 15vw;
     height: 50px;
+    float: left;
   }
   .AlbumTitle {
     width: 40vw;
@@ -351,6 +395,11 @@ a {
   }
   .ComingSoon {
     width: 20vw;
+  }
+  .Buttspace2 {
+    width: 15vw;
+    height: 50px;
+    float: left;
   }
 }
 @media screen and (max-width: 1400px) {
