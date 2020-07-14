@@ -349,7 +349,7 @@ a {
 /*** About page***/
 .AboutInfor {
   width: 95%;
-  height: 513px;
+  height: 413px;
   border: 3px solid #929192;
   padding: 10px;
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
@@ -359,7 +359,7 @@ a {
 }
 .MalePerform {
   width: 95%;
-  height: 613px;
+  height: 413px;
   border: 3px solid #929192;
   padding: 10px;
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
@@ -370,6 +370,19 @@ a {
 .texts {
   width: 70%;
   background-color: red;
+  float: left;
+}
+.ShareTilted {
+  width: 50%;
+  float: left;
+}
+.images2 {
+  border: 10px;
+  margin: 10px;
+  float: left;
+}
+.texts2 {
+  width: 60%;
   float: left;
 }
 
