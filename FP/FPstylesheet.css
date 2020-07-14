@@ -22,14 +22,23 @@ main {
 }
 nav {
   color: #FFDE05;
+  float: left;
+}
+ul {
+  float: left;
 }
 .navspace {
   margin: 20px;
   background-image: url('Album-blank.png');
   float: left;
 }
+.PageTitle {
+  width: 100vw;
+  height: 50px;
+  float: left;
+}
 h1 {
-  color: white;
+  color: #FFA300;
   text-align: left;
   font-family: 'Californian FB', serif;
 }
@@ -77,7 +86,7 @@ img {
 /****** Event pade ***/
 .August {
   width: 549px;
-  height: 1130px;
+  height: 1330px;
   border: 3px solid #929192;
   padding: 10px;
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
@@ -112,7 +121,6 @@ a {
 .gallery {
   width: 75vw;
   height: 1200px;
-  background-color: red;
   float: left;
 }
 .cancellation {
@@ -214,6 +222,11 @@ a {
   width: 100vw;
   height: 15px;
   background-color: #AA0ABB;
+  float: left;
+}
+.purpleline2 {
+  width: 100vw;
+  height: 15px;
   float: left;
 }
 /************* end of the gallery***/
@@ -348,7 +361,7 @@ a {
 }
 /*** About page***/
 .AboutInfor {
-  width: 95%;
+  width: 90%;
   height: 413px;
   border: 3px solid #929192;
   padding: 10px;
@@ -358,7 +371,7 @@ a {
   float: left;
 }
 .MalePerform {
-  width: 95%;
+  width: 90%;
   height: 413px;
   border: 3px solid #929192;
   padding: 10px;
@@ -369,7 +382,6 @@ a {
 }
 .texts {
   width: 70%;
-  background-color: red;
   float: left;
 }
 .ShareTilted {
