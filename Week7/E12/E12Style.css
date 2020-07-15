@@ -66,6 +66,8 @@ body {
 .layer1 {
   width: 600px;
   height: 100px;
+  border: 3px;
+  border-color: white;
   background-color: aquamarine;
   position: relative;
   top: 400px;
