@@ -1,0 +1,72 @@
+body {
+  background-color: #A8F7F9
+}
+.table {
+  width: 828px;
+  height: 575px;
+  background-color: #A8674B;
+  position: absolute;
+  top: 470px;
+  left: 538px;
+}
+.tableEdge {
+  width: 0;
+  height: 0;
+  border-left: solid 400px transparent;
+  border-right: solid 400px transparent;
+  border-bottom: solid 400px #A8674B;
+  transform:rotatez(134deg);
+  position: absolute;
+  top: 700px;
+  left: 5px;
+}
+.tableEdge2 {
+  width: 0;
+  height: 0;
+  border-left: solid 400px transparent;
+  border-right: solid 400px transparent;
+  border-bottom: solid 400px #A8674B;
+  transform:rotatez(-134deg);
+  position: absolute;
+  top: 700px;
+  left: 1100px;
+}
+.frontedge {
+  width: 1875px;
+  height: 75px;
+  background-color: #501B05;
+  margin: 0px auto;
+  position: absolute;
+  top: 1035px;
+  right: 200px:
+}
+.legs {
+  width: 75px;
+  height: 300px;
+  background-color: #A8674B;
+  position: absolute;
+  top: 75px;
+}
+.legs2 {
+  width: 75px;
+  height: 300px;
+  background-color: #A8674B;
+  position: absolute;
+  top: 75px;
+  left: 1800px;
+}
+.WholeCake {
+  width: 600px;
+  height: 700px;
+  background-color: #C0194A;
+  position: relative;
+  bottom: 300px;
+  left: 175px;
+}
+.layer1 {
+  width: 600px;
+  height: 100px;
+  background-color: aquamarine;
+  position: relative;
+  top: 400px;
+}
