@@ -57,11 +57,24 @@ body {
 }
 .WholeCake {
   width: 600px;
-  height: 700px;
+  height: 300px;
   background-color: #C0194A;
   position: relative;
-  bottom: 300px;
+  top: 100px;
   left: 175px;
+}
+.EdgeCake {
+  width: 600px;
+  height: 100px;
+  border: 3px;
+  background-color: #C0194A;
+  box-shadow: -5px 20px, white;
+  float: left;
+  margin: -5px;
+  border-radius: 50%;
+  position: relative;
+  top: 250px;
+  left: 5px;
 }
 .Icing1 {
   width: 600px;
@@ -70,5 +83,197 @@ body {
   border-color: white;
   background-color: aquamarine;
   position: relative;
-  top: 400px;
+  bottom: 100px;
+}
+.topIcing1 {
+  width: 600px;
+  height: 50px;
+  background-color: MediumAquaMarine;
+  box-shadow: -5px 20px, white;
+  float: left;
+  margin: -5px;
+  border-radius: 50%;
+  position: relative;
+  left: 5px;
+  bottom: 200px;
+}
+.circleIC1 {
+  width: 210px;
+  height: 100px;
+  background-color: aquamarine;
+  box-shadow: -5px 20px, white;
+  border-width: 3px;
+  border-bottom-color: white;
+  float: left;
+  margin: -5px;
+  border-radius: 50%;
+  position: relative;
+  bottom: 25px;
+}
+.layer2 {
+  width: 400px;
+  height: 300px;
+  background-color: #C0194A;
+  position: relative;
+  bottom: 510px;
+  left: 100px;
+}
+.EdgeCake2 {
+  width: 400px;
+  height: 50px;
+  border: 3px;
+  background-color: #C0194A;
+  box-shadow: -5px 20px, white;
+  float: left;
+  margin: -5px;
+  border-radius: 50%;
+  position: relative;
+  top: 160px;
+  left: 5px;
+}
+.Icing2 {
+  width: 400px;
+  height: 100px;
+  border: 3px;
+  border-color: white;
+  background-color: aquamarine;
+  position: relative;
+  bottom: 50px;
+}
+.topIcing2 {
+  width: 400px;
+  height: 50px;
+  background-color: MediumAquaMarine;
+  box-shadow: -5px 20px, white;
+  float: left;
+  margin: -5px;
+  border-radius: 50%;
+  position: relative;
+  left: 5px;
+  bottom: 225px;
+}
+.circleIC2 {
+  width: 140px;
+  height: 50px;
+  background-color: aquamarine;
+  box-shadow: -5px 20px, white;
+  border-width: 3px;
+  border-bottom-color: white;
+  float: left;
+  margin: -5px;
+  border-radius: 50%;
+  position: relative;
+  left: 5px;
+  bottom: 85px;
+}
+.Dots {
+  width: 25px;
+  height: 25px;
+  background-color: white;
+  box-shadow: -5px 20px, white;
+  border-width: 3px;
+  border-bottom-color: white;
+  border-radius: 50%;
+  margin: 5px;
+  float: left;
+  position: relative;
+  bottom: 175px;
+}
+.Dots2 {
+  width: 25px;
+  height: 25px;
+  background-color: white;
+  box-shadow: -5px 20px, white;
+  border-width: 3px;
+  border-bottom-color: white;
+  border-radius: 50%;
+  margin: 5px;
+  float: left;
+  position: relative;
+  bottom: 155px;
+}
+.Dots3 {
+  width: 25px;
+  height: 25px;
+  background-color: white;
+  box-shadow: -5px 20px, white;
+  border-width: 3px;
+  border-bottom-color: white;
+  border-radius: 50%;
+  margin: 5px;
+  float: left;
+  position: relative;
+  bottom: 145px;
+}
+.Dots4 {
+  width: 25px;
+  height: 25px;
+  background-color: white;
+  box-shadow: -5px 20px, white;
+  border-width: 3px;
+  border-bottom-color: white;
+  border-radius: 50%;
+  margin: 5px;
+  float: left;
+  position: relative;
+  bottom: 135px;
+}
+.DotsButt {
+  width: 25px;
+  height: 25px;
+  background-color: white;
+  box-shadow: -5px 20px, white;
+  border-width: 3px;
+  border-bottom-color: white;
+  border-radius: 50%;
+  margin: 5px;
+  float: left;
+  position: relative;
+  left: 380px;
+  bottom: 175px;
+}
+.DotsButt2 {
+  width: 25px;
+  height: 25px;
+  background-color: white;
+  box-shadow: -5px 20px, white;
+  border-width: 3px;
+  border-bottom-color: white;
+  border-radius: 50%;
+  margin: 5px;
+  float: left;
+  position: relative;
+  right: 55px;
+  bottom: 180px;
+  z-index: 100px;
+}
+.candles {
+  width: 100px;
+  height: 100px;
+  border-width: 10px;
+  border-color: white;
+  position: relative;
+  left: 150px;
+  bottom: 65px;
+}
+.candles2 {
+  width: 100px;
+  height: 100px;
+  border-width: 10px;
+  border-color: white;
+  position: relative;
+  left: 155px;
+  bottom: 170px;
+}
+P {
+  font-size: 75px;
+  color: white;
+  font-family: 'Galada', cursive;
+  margin: 5px;
+}
+h2 {
+  font-size: 75px;
+  color: purple;
+  font-family: 'Galada', cursive;
+  margin: 5px;
 }
