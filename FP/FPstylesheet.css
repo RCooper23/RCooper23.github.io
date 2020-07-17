@@ -414,7 +414,8 @@ a {
     width: 25vw;
   }
   .logo {
-    height: 125px
+    height: 125px;
+    float: right;
   }
   .cancellation {
     width: 75%;
