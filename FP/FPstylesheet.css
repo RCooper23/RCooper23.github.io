@@ -9,6 +9,7 @@ body {
 .logo {
   width: 10vw;
   height: 100px;
+/*** Position absolute***/
   float: left;
 }
 header {
@@ -63,6 +64,7 @@ p {
   text-align: left;
   font-family: 'High Tower Text' serif;
   font-size: 20px;
+  margin: 10px;
   line-height: 35px;
 }
 li {
@@ -251,14 +253,13 @@ a {
   float: left;
 }
 .AlbumTitle {
-  width: 50vw;
+  width: 35vw;
   height: 51px;
   float: left;
 }
 .ComingSoon {
   width: 10vw;
   height: 150px;
-  text-align: right;
   float: left;
 }
 .Melbourneapolis {
@@ -268,6 +269,11 @@ a {
 .Buttspace {
   width: 15vw;
   height: 25px;
+  float: left;
+}
+.center {
+  width: 15vw;
+  height: 10px;
   float: left;
 }
 .FemaleComment {
@@ -284,11 +290,7 @@ a {
   width: 25%;
   float: left;
 }
-.paraDent {
-  width: 3vw;
-  height: 25px;
-  float: left;
-}
+
 .paragraph {
   width: 70%;
   float: left;
@@ -436,6 +438,7 @@ a {
   .Buttspace {
     width: 15vw;
     height: 50px;
+    background-color: yellow;
     float: left;
   }
   .AlbumTitle {
@@ -448,6 +451,7 @@ a {
   }
   .ComingSoon {
     width: 20vw;
+    float: left;
   }
   .Buttspace2 {
     width: 15vw;
