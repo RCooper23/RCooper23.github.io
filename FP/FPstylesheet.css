@@ -88,7 +88,7 @@ img {
 /****** Event pade ***/
 .August {
   width: 549px;
-  height: 1330px;
+  height: 1435px;
   border: 3px solid #929192;
   padding: 10px;
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
@@ -114,7 +114,7 @@ img {
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
   opacity: 75px;
   margin: 30px;
-  float: right;
+  float: left;
 }
 /******End of the event page ******/
 a {
@@ -255,6 +255,7 @@ a {
 .AlbumTitle {
   width: 35vw;
   height: 51px;
+
   float: left;
 }
 .ComingSoon {
@@ -267,13 +268,18 @@ a {
   float:left;
 }
 .Buttspace {
-  width: 15vw;
+  width: 10vw;
   height: 25px;
   float: left;
 }
 .center {
   width: 15vw;
   height: 10px;
+  float: left;
+}
+.center1 {
+  width: 15vw;
+  height: 300px;
   float: left;
 }
 .FemaleComment {
@@ -326,7 +332,12 @@ a {
   float: left;
 }
 .list {
-  width: 15%;
+  width: 40%;
+  height: 150px;
+  float: left;
+}
+.list1 {
+  width: 40%;
   height: 150px;
   float: left;
 }
@@ -336,18 +347,18 @@ a {
   float: left;
 }
 .button {
-  width: 30vw;
+  width: 15vw;
   height: 50px;
   float: left;
 }
 .trackbutton {
-  width: 35vw;
+  width: 25vw;
   height: 50px;
   text-align: left;
   float: left;
 }
 .trackbutton2 {
-  width: 15vw;
+  width: 10vw;
   height: 20px;
   float: left;
 }
@@ -357,8 +368,13 @@ a {
   float: left;
 }
 .MidnightCrisis {
-  width: 45vw;
+  width: 30vw;
   height: 100px;
+  float: left;
+}
+.TrackList {
+  width: 25vw;
+  height: 200px;
   float: left;
 }
 /*** About page***/
@@ -438,7 +454,6 @@ a {
   .Buttspace {
     width: 15vw;
     height: 50px;
-    background-color: yellow;
     float: left;
   }
   .AlbumTitle {
