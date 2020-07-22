@@ -29,7 +29,8 @@ ul {
   float: left;
 }
 .navspace {
-  margin: 20px;
+  margin: 40px;
+  font: 50px;
   background-image: url('Album-blank.png');
   float: left;
 }
@@ -233,12 +234,12 @@ a {
 }
 /************* end of the gallery***/
 .title {
-  width: 50vw;
+  width: 40vw;
   height: 46px;
   float: left;
 }
 .emptytitle {
-  width: 40vw;
+  width: 20vw;
   height: 15px;
   float: left;
 }
