@@ -12,6 +12,9 @@ main {
   margin: 25px auto;
   display: flow-roots;
 }
+h1 {
+  color: green;
+}
 h2 {
   color: aquamarine;
 }
@@ -42,6 +45,9 @@ u {
   background-color: blue;
   border: 5px;
   float: left;
+}
+.final {
+  background-color: MediumSpringGreen;
 }
 /** **/
 @media screen and (max-width: 900px) {
