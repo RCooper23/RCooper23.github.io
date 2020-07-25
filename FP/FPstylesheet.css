@@ -12,6 +12,11 @@ body {
 /*** Position absolute***/
   float: left;
 }
+.tabspacemove {
+  width: 50%;
+  margin: 10px;
+  float: left;
+}
 header {
   width: 100vw;
   height: 250px;
@@ -43,6 +48,7 @@ h1 {
   color: #FFA300;
   text-align: left;
   font-family: 'Californian FB', serif;
+  margin-left: 20px;
 }
 h2 {
   color: #FFA300;
@@ -65,7 +71,6 @@ p {
   text-align: left;
   font-family: 'High Tower Text' serif;
   font-size: 20px;
-  margin: 10px;
   line-height: 35px;
 }
 li {
@@ -123,7 +128,6 @@ a {
 }
 .gallery {
   width: 75vw;
-  height: 1200px;
   float: left;
 }
 .cancellation {
@@ -164,7 +168,6 @@ a {
 }
 .leftcol {
   width: 210px;
-  height: 1009px;
   border: 3px;
   border-color: white;
   float: left
@@ -225,6 +228,7 @@ a {
   width: 100vw;
   height: 15px;
   background-color: #AA0ABB;
+  opacity: 0.50;
   float: left;
 }
 .purpleline2 {
@@ -309,7 +313,6 @@ a {
 /** Album**/
 .Albumpage {
   width: 95%;
-  height: 513px;
   border: 3px solid #929192;
   padding: 10px;
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
@@ -319,7 +322,6 @@ a {
 }
 .Albumpage2 {
   width: 95%;
-  height: 333px;
   border: 3px solid #929192;
   padding: 10px;
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
@@ -369,7 +371,6 @@ a {
 }
 .TitleName {
   width: 5vw;
-  height: 100px;
   float: left;
 }
 .MidnightCrisis {
@@ -385,7 +386,6 @@ a {
 /*** About page***/
 .AboutInfor {
   width: 90%;
-  height: 413px;
   border: 3px solid #929192;
   padding: 10px;
   box-shadow: -20px 10px  9px rgba(170,10,187,0.25);
@@ -420,66 +420,40 @@ a {
   width: 60%;
   float: left;
 }
+.ComingSoon {
+  width: 25vw;
+  float: left;
+}
 
-/** responds **/
-@media screen and (max-width: 1700px) {
-  main {
-    width: 50% auto;
-    margin: 25px auto;
+@media screen and (max-width: 1440px) {
+  .main {
+    margin: 10px auto;
   }
-  nav {
-    float: left;
+  p {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .texts {
+    width: 65%;
+  }
+  .list {
+    width: 50%;
+  }
+  .texts2 {
+    width: 50%;
   }
   .gallery {
-    width: 85vw;
+    width: 95vw;
   }
-  .title {
-    width: 25vw;
+  .TitleName {
+    width: 6vw;
   }
-  .logo {
-    height: 125px;
-    float: right;
+  .emptytitle {
+    width: 10vw;
   }
-  .cancellation {
-    width: 75%;
-    margin: 25px auto;
-    float: left;
-  }
-  .updatepost {
-    width: 75%;
-    height: 213px;
-    margin: 25px auto;
-    float: left;
-  }
-  .FemaleComment {
-    width: 75%;
-    margin: 25px auto;
-    float: left;
-  }
-  .Buttspace {
-    width: 15vw;
-    height: 50px;
-    float: left;
-  }
-  .AlbumTitle {
-    width: 40vw;
-    height: 51px;
-  }
-  .Melbourneapolis {
-    width: 15vw;
-    float:left;
-  }
-  .ComingSoon {
+  .MidnightCrisis {
     width: 20vw;
-    float: left;
   }
-  .Buttspace2 {
-    width: 15vw;
-    height: 50px;
-    float: left;
-  }
-}
-@media screen and (max-width: 1400px) {
   .Buttspace {
     width: 20vw;
     height: 50px;
@@ -487,5 +461,13 @@ a {
   .AlbumTitle {
     width: 45vw;
     height: 51px;
+  }
+  .Buttspace2 {
+    width: 10vw;
+    height: 65px;
+  }
+  .images2 {
+    border: 5px;
+    margin: 5px;
   }
 }
